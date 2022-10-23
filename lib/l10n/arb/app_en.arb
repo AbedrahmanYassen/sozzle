@@ -1,11 +1,11 @@
 {
-    "@@locale": "en",
-    "startButton": "Tap to Start",
+    "@@locale": "ar",
+    "startButton": "إضغط للبدء",
     "@StartButton": {
         "description": "Text Button shown at startup"
     },
-    "soundSettings": "Sound",
-    "musicSettings": "Music",
-    "darkModeSettings": "Dark Mode",
-    "muteSettings": "Mute"
+    "soundSettings": "الصوت",
+    "musicSettings": "الموسيقى",
+    "darkModeSettings": "الوضع المظلم",
+    "muteSettings": "إعدادات كتم الصوت"
 }
